@@ -1,0 +1,63 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Black100segoeu50sp">
+        <item name="android:fontFamily">@font/segoeui</item>
+        <item name="android:textSize">50sp</item>
+        <item name="android:color">#3F3F3F</item>
+    </style>
+
+    <style name="Black100segoeu13sp">
+        <item name="android:fontFamily">@font/segoeui</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:color">#2D2D2D</item>
+    </style>
+
+    <style name="Black100segoeu14sp">
+        <item name="android:fontFamily">@font/segoeui</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:color">#9E9E9E</item>
+    </style>
+
+    <style name="Grey100segoeu14sp">
+        <item name="android:fontFamily">@font/segoeui</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:color">#5F5F5F</item>
+    </style>
+
+
+    <style name="Black100segoeu18sp">
+        <item name="android:color">#363636</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:fontFamily">@font/segoeui</item>
+    </style>
+
+    <style name="Black100segoeu26sp">
+        <item name="android:color">#363636</item>
+        <item name="android:textSize">26sp</item>
+        <item name="android:fontFamily">@font/segoeui</item>
+    </style>
+
+    <style name="Black100segoeuB18sp">
+        <item name="android:color">#324148</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:fontFamily">@font/segoeuib</item>
+    </style>
+
+
+    <style name="TextViewInputStyle">
+        <item name="android:backgroundTint">#CCC8C8</item>
+        <item name="android:fontFamily">@font/segoeui</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:color">#9E9E9E</item>
+    </style>
+
+
+</resources>
